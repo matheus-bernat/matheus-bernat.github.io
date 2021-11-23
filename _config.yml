@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Matheus Bernat
+bio: Last year master student in Computer Science & Engineering
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# facebook: myfacebook
+# twitter: mytwitter
+# instagram: myinstagram
+linkedin: https://www.linkedin.com/in/matheus-bernat/
+github: https://github.com/matheus-bernat
+email: matheus.bernat@gmail.com
 
 authors:
   johndoe:
