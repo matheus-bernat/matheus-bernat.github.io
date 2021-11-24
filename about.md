@@ -8,13 +8,18 @@ layout: page
 
 <p>
 Hello! My name is Matheus Bernat and I am a 23 year old master student in <b>Computer Science and Engineering</b> at Linköping university, in Sweden. I'm currently on my last year of master studies, doing an exchange year at EPFL, the Swiss Federal Institute of Technology in Lausanne.
+</p>
 
+<p>
 At the moment I am <b> looking for a master project opportunity during the Fall of 2022 </b>, at the industry or in academia. 
+</p>
 
+<p>
 My main research interests are in <b> computer vision, ML and signal processing</b>. Otherwise I spend a lot of time watching <b>football, tennis and F1</b>!
+</p>
 
+<p>
 This website aims to <b>display projects</b> I have done during my studies, both as course projects and hobby projects.
-
 </p>
 
 
