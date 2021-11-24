@@ -1,0 +1,34 @@
+---
+title: "RoboCup Sydney 2019"
+layout: post
+date: 2019-07-01 22:10
+tag: robocup
+image: assets/images/robocup_logo.jpg
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: ""
+category: project
+author: matheus
+externalLink: false
+---
+
+In July 2019 I got the change to travel with 5 other students from Linköping university's robotics association, FIA, to Sydney, Australia, to compete at RoboCup @Home. RoboCup is an annual international robotics competition whose goal is to promote research and interest in 
+the fields of robotics and AI. Our team, LiUHomeWreckers, competed in a league called @Home with service robots and reached 4th place out of 7 teams from University of Technology Sydney, University of Chile, etc. 
+
+My role in the team was NLP: I developed the robots hability to talk and understand natural language. I wrote Python
+code to interface with the robot's microphone and speakers to collect and send audio packets, and also with Google's 
+NLP platform Google Dialogflow to develop the conversations' logic based on the assignments.
+
+<img class="image" src="/assets/images/woz.jpg" alt="Alt Text">
+<img class="image" src="/assets/images/robocup_team.jpg" alt="Alt Text">
+<img class="image" src="/assets/images/pepper.jpg" alt="Alt Text">
+
+
+### About this project
+* Python.
+* Google Dialogflow.
+* ROS.
+
+### Links
+* [FIA robotics website](https://fiarobotics.se/index.php/robocup/)
