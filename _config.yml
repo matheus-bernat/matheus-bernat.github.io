@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/matheus.jpg
+picture: assets/images/screen-shot.jpg
 
 # your site color theme, false to light theme
 dark-theme: false
@@ -37,7 +37,7 @@ disqus:
 # twitter: mytwitter
 # instagram: myinstagram
 linkedin: https://www.linkedin.com/in/matheus-bernat/
-github: https://github.com/matheus-bernat
+github: matheus-bernat
 email: matheus.bernat@gmail.com
 
 authors:
