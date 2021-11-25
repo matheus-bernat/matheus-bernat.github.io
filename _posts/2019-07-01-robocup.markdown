@@ -19,7 +19,7 @@ externalLink: false
 * ROS.
 * Duration: 2 semesters.
 
-In July 2019 I got the change to travel with 5 other students from Linköping university's robotics association, FIA, to Sydney, Australia, to compete at RoboCup @Home. RoboCup is an annual international robotics competition whose goal is to promote research and interest in 
+In July 2019 I got the change to travel with 5 other students from Linköping university's robotics association, [FIA](https://fiarobotics.se/index.php/robocup/), to Sydney, Australia, to compete at RoboCup @Home. RoboCup is an annual international robotics competition whose goal is to promote research and interest in 
 the fields of robotics and AI. Our team, LiUHomeWreckers, competed in a league called @Home with service robots and reached 4th place out of 7 teams from University of Technology Sydney, University of Chile, etc. 
 
 My role in the team was NLP: I developed the robots hability to talk and understand natural language. I wrote Python
