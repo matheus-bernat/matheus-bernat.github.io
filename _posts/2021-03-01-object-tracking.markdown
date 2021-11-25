@@ -1,5 +1,5 @@
 ---
-title: "Object tracking project, CV course @ LiU"
+title: "Object tracking project, CV course project @ LiU"
 layout: post
 date: 2021-03-01 22:10
 tag: object-tracking
@@ -20,13 +20,14 @@ The pipeline consisted of_
 - foreground segmentation (morphological operations);
 - tracking (kalman filtering, keypoint matching).
 
-<img class="image" src="/assets/images/tracking.png" alt="Alt Text">
-<img class="image" src="/assets/images/tracking_2.png" alt="Alt Text">
+<img class="image" src="/assets/images/median_gray.png" alt="Alt Text">
+<img class="image" src="/assets/images/gt_vs_our_frame70.png" alt="Sequence MOT17-09, ground truth (left) our de-tections (right)">
 
 
 ### About this project
 * Python.
 * Statistics (Gaussian mixture models & kalman filtering).
+* Duration: 6 weeks.
 
 ### Links
 * Here's the link to the [project report](/assets/reports/TSBB15_proj1.pdf)
