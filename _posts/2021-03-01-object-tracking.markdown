@@ -21,8 +21,10 @@ The pipeline consisted of_
 - tracking (kalman filtering, keypoint matching).
 
 <img class="image" src="/assets/images/median_gray.png" alt="Alt Text">
-<img class="image" src="/assets/images/gt_vs_our_frame70.png" alt="Sequence MOT17-09, ground truth (left) our de-tections (right)">
+<figcaption class="caption">Example of median filtering using gray-scale images.</figcaption>
 
+<img class="image" src="/assets/images/gt_vs_our_frame70.png" alt="Sequence MOT17-09, ground truth (left) our de-tections (right)">
+<figcaption class="caption">Sequence MOT17-09, ground truth (left) our detections (right).</figcaption>
 
 ### About this project
 * Python.
@@ -30,5 +32,5 @@ The pipeline consisted of_
 * Duration: 6 weeks.
 
 ### Links
-* Here's the link to the [project report](/assets/reports/TSBB15_proj1.pdf)
+* Here's the link to the [project report](/assets/reports/TSBB15_proj1.pdf).
 * Here's the link to the [Github repository](https://github.com/matheus-bernat/object-tracking).
