@@ -23,7 +23,7 @@ This project was done in the course TSBB15 Computer Vision at Linköping univers
 
 The goal was to construct a system able to perform 3D reconstruction of a static scene given images of this scene takenfrom different angles. This task is thoroughly studied in the field of computer vision and known as Structure from Motion (SfM).
 
-<img class="image" src="/assets/images/pipeline.png" alt="Incremental Structure from Motion pipeline">
+<img class="image" src="/assets/images/pipeline.png" alt="pipeline">
 <figcaption class="caption">Incremental Structure from Motion pipeline.</figcaption>
 
 <img class="image" src="/assets/images/3d_point_cloud3.png" alt="Alt Text">
