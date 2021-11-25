@@ -15,7 +15,7 @@ externalLink: false
 
 This project was done in the course TSBB15 Computer Vision at Linköping university.
 
-The goal was to construct a system able to perform 3D reconstruction of a static scene given images of this scene takenfrom different angles. This task is thoroughly studied in thefield of computer vision and known asStructure from Motion (SfM).
+The goal was to construct a system able to perform 3D reconstruction of a static scene given images of this scene takenfrom different angles. This task is thoroughly studied in the field of computer vision and known as Structure from Motion (SfM).
 
 <img class="image" src="/assets/images/pipeline.png" alt="Alt Text">
 <img class="image" src="/assets/images/dino2.png" alt="Alt Text">
@@ -23,7 +23,7 @@ The goal was to construct a system able to perform 3D reconstruction of a static
 
 ### About this project
 * Python.
-* Pytorch for optimization of camera positions parameters.
+* Pytorch for optimization of positions of cameras and positions of triangulated 3D points.
 * 3D reconstruction, structure from motion, epipolar geometry.
 * Duration: 6 weeks.
 

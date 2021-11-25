@@ -21,7 +21,7 @@ This project is part of the collaboration between the competence center LINK-SIC
 ### About this project
 * Matlab.
 * Physical simulation of waves and ship motion.
-* Duration of 6 weeks.
+* Duration: 6 weeks.
 
 ### Links
 * Here's the link with the [Github repository with reports](https://github.com/matheus-bernat/ship-simulator).

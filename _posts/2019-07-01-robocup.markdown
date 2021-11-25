@@ -29,6 +29,7 @@ NLP platform Google Dialogflow to develop the conversations' logic based on the 
 * Python.
 * Google Dialogflow.
 * ROS.
+* Duration: 2 semesters.
 
 ### Links
 * [FIA robotics website](https://fiarobotics.se/index.php/robocup/)
