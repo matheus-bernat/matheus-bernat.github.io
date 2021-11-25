@@ -13,6 +13,12 @@ author: matheus
 externalLink: false
 ---
 
+### About this project
+* Python.
+* Google Dialogflow.
+* ROS.
+* Duration: 2 semesters.
+
 In July 2019 I got the change to travel with 5 other students from Linköping university's robotics association, FIA, to Sydney, Australia, to compete at RoboCup @Home. RoboCup is an annual international robotics competition whose goal is to promote research and interest in 
 the fields of robotics and AI. Our team, LiUHomeWreckers, competed in a league called @Home with service robots and reached 4th place out of 7 teams from University of Technology Sydney, University of Chile, etc. 
 
@@ -23,13 +29,6 @@ NLP platform Google Dialogflow to develop the conversations' logic based on the 
 <img class="image" src="/assets/images/woz.jpg" alt="Alt Text">
 <img class="image" src="/assets/images/robocup_team.jpg" alt="Alt Text">
 <img class="image" src="/assets/images/pepper.jpg" alt="Alt Text">
-
-
-### About this project
-* Python.
-* Google Dialogflow.
-* ROS.
-* Duration: 2 semesters.
 
 ### Links
 * [FIA robotics website](https://fiarobotics.se/index.php/robocup/)

@@ -1,5 +1,5 @@
 ---
-title: "3D reconstruction, CV course project @ LiU"
+title: "3D reconstruction course project"
 layout: post
 date: 2021-06-01 22:10
 tag: reconstruction

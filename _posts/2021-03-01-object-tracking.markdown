@@ -1,5 +1,5 @@
 ---
-title: "Object tracking project, CV course project @ LiU"
+title: "Object tracking course project"
 layout: post
 date: 2021-03-01 22:10
 tag: object-tracking
@@ -18,18 +18,20 @@ externalLink: false
 * Statistics (Gaussian mixture models & kalman filtering).
 * Duration: 6 weeks.
 
-This report contains a description of the techniques andimplementation details of a tracking system for the course TSBB15 Computer Vision at Linköping university. The goal of the constructed system was to track objects – mainly humans – through image sequences, while addressing problems suchas shadows, occlusion and spurious motion.The assumptions made are that both the cameras and thebackground are static, and that the humans are moving on a flat ground plane.
+This project was done in the course TSBB15 Computer Vision at Linköping university.
 
-The pipeline consisted of_
+The goal of the constructed system was to track objects – mainly humans – through image sequences, while addressing problems such as shadows, occlusion and spurious motion.The assumptions made are that both the cameras and the background are static, and that the humans are moving on a flat ground plane.
+
+The pipeline consisted of:
 - background modeling (through media filtering and then gaussian mixture models);
 - foreground segmentation (morphological operations);
 - tracking (kalman filtering, keypoint matching).
 
 <img class="image" src="/assets/images/median_gray.png" alt="Alt Text">
-<figcaption class="caption">Example of median filtering using gray-scale images.</figcaption>
+<figcaption class="caption">Figure 1. Example of median filtering using gray-scale images.</figcaption>
 
 <img class="image" src="/assets/images/gt_vs_our_frame70.png" alt="Sequence MOT17-09, ground truth (left) our de-tections (right)">
-<figcaption class="caption">Sequence MOT17-09, ground truth (left) our detections (right).</figcaption>
+<figcaption class="caption">Figure 2. Sequence MOT17-09, ground truth (left) our detections (right).</figcaption>
 
 ### Links
 * Here's the link to the [project report](/assets/reports/TSBB15_proj1.pdf).

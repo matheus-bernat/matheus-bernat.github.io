@@ -1,5 +1,5 @@
 ---
-title: "Summer job at UMS Skeldar"
+title: "Wave and ship simulation in MATLAB at UMS Skeldar"
 layout: post
 date: 2021-08-10 22:10
 tag: UMS Skeldar
@@ -18,6 +18,8 @@ externalLink: false
 * Physical simulation of waves and ship motion.
 * Duration: 6 weeks.
 
+I worked on this project during a summer job at [UMS Skeldar](https://umsskeldar.aero/) in Linköping.
+
 This project is part of the collaboration between the competence center LINK-SIC and UMS Skeldar. The final aim of this project was to better understand the motion of ships caused by waves in order to facilitate the landing of multi-rotor aerial vehicles on a moving ship. The achieved mathematical models of waves and ship motion together with the resulting simulations are presented.
 
 <img class="image" src="/assets/images/sea-states-poster.png" alt="Alt Text">
@@ -25,5 +27,6 @@ This project is part of the collaboration between the competence center LINK-SIC
 <img class="image" src="/assets/images/much-nicer-ship.jpg" alt="Alt Text">
 
 ### Links
-* Here's the link with the [Github repository with reports](https://github.com/matheus-bernat/ship-simulator).
+* Here's the link with the [Github repository](https://github.com/matheus-bernat/ship-simulator).
+* And here's the [report](/assets/reports/0-Report-LINK-SIC-UMS-Skeldar-Granstrom-Bernat-2021.pdf).
 * [YouTube video of simulation](https://www.youtube.com/watch?v=J-wDq4UX1po).
