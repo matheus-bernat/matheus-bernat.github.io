@@ -13,6 +13,11 @@ author: matheus
 externalLink: false
 ---
 
+### About this project
+* Python.
+* Statistics (Gaussian mixture models & kalman filtering).
+* Duration: 6 weeks.
+
 This report contains a description of the techniques andimplementation details of a tracking system for the course TSBB15 Computer Vision at Linköping university. The goal of the constructed system was to track objects – mainly humans – through image sequences, while addressing problems suchas shadows, occlusion and spurious motion.The assumptions made are that both the cameras and thebackground are static, and that the humans are moving on a flat ground plane.
 
 The pipeline consisted of_
@@ -25,11 +30,6 @@ The pipeline consisted of_
 
 <img class="image" src="/assets/images/gt_vs_our_frame70.png" alt="Sequence MOT17-09, ground truth (left) our de-tections (right)">
 <figcaption class="caption">Sequence MOT17-09, ground truth (left) our detections (right).</figcaption>
-
-### About this project
-* Python.
-* Statistics (Gaussian mixture models & kalman filtering).
-* Duration: 6 weeks.
 
 ### Links
 * Here's the link to the [project report](/assets/reports/TSBB15_proj1.pdf).
