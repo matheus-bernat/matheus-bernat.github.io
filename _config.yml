@@ -17,7 +17,7 @@ dark-theme: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: _posts/CV_MatheusBernat.pdf
+resume-url: assets/CV_MatheusBernat.pdf
 
 url: https://matheus-bernat.github.io
 # your url: https://USERNAME.github.io
