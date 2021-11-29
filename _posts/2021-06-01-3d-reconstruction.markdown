@@ -25,7 +25,7 @@ This project was done in the course TSBB15 Computer Vision at Linköping univers
 
 The goal was to construct a system able to perform 3D reconstruction of a static scene given images of this scene takenfrom different angles. This task is thoroughly studied in the field of computer vision and known as Structure from Motion (SfM).
 
-![](assets\images\dino_mesh.gif)
+<img src="/assets/images/dino_mesh.gif" width="40" height="40" alt="should be a gif"/>
 
 <img class="image" src="/assets/images/dino2.png" alt="Alt Text">
 <figcaption class="caption">Keypoints on dinosaur that will be triangulated.</figcaption>
