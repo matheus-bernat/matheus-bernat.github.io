@@ -1,0 +1,31 @@
+---
+title: "Driverless Formula Student"
+layout: post
+date: 2021-06-01 22:10
+year: 2021
+tag: driverless
+image: /assets/images/LiUFS.png
+small_image: /assets/images/LiUFS_small.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: ""
+category: project
+author: matheus
+externalLink: false
+---
+
+### About this project
+* C++.
+* Planning and Control.
+* ROS.
+* Duration: 2 semesters.
+
+This project consisted of kick-starting the development of autonomous features for the electric car build by LiU Formula Student. The partial goal consisted on taking an RC-car autonomously around a previously unknown race-track. Despite not achieving the full partial goal, we laid ground for the individual parts of perception, mapping, planning and control. 
+
+My role in the team was development of planning and control algorithms. I implemented a RRT planner with pure pursuit as its control algorithm. This was done inside the F1-tenth simulation enviroment.
+
+<img src="/assets/images/fs_car.gif" alt="should be a gif"/>
+
+### Links
+* [LiU Formula Student](https://fiarobotics.se/index.php/robocup/)
