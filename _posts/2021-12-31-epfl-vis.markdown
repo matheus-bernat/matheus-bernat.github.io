@@ -1,7 +1,8 @@
 ---
 title: "Attention vs convolution: a survey on OOD object detection"
 layout: post
-year: 2021-12-01 22:10
+date: 2021-12-01 22:10
+year: 2021
 tag: ada
 image: /assets/images/epfl.png
 small_image: /assets/images/epfl.png

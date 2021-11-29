@@ -2,6 +2,7 @@
 title: "RoboCup Sydney 2019"
 layout: post
 date: 2019-07-01 22:10
+year: 2019
 tag: robocup
 image: /assets/images/robocup_logo.jpg
 small_image: /assets/images/robocup.jpg

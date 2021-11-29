@@ -2,6 +2,7 @@
 title: "Object tracking course project"
 layout: post
 date: 2021-03-01 22:10
+year: 2021
 tag: object-tracking
 image: /assets/images/liu.png
 small_image: /assets/images/liu2.png

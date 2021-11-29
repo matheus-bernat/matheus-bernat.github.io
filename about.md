@@ -38,6 +38,15 @@ This website aims to <b>display projects</b> I have done during my studies, both
 	<li>Pandas</li>
 </ul>
 
+<h2>Previous employers</h2>
+
+<ul class="skill-list">
+	<li></li>
+	<li>Veoneer</li>
+	<li>UMS Skeldar</li>
+	<li>Linköping university</li>
+</ul>
+
 <!-- <h2>My resume</h2>
 
 <ul>
