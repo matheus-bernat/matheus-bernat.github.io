@@ -2,6 +2,7 @@
 title: "Wave and ship simulation in MATLAB at UMS Skeldar"
 layout: post
 date: 2021-08-10 22:10
+year: 2021
 tag: UMS Skeldar
 image: /assets/images/ums_skeldar.png
 small_image: /assets/images/ums_small.png

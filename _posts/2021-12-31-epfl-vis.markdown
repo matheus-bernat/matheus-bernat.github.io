@@ -16,9 +16,9 @@ externalLink: false
 ---
 
 ### About this project
-* Python, Pandas, Scikit-learn.
-* Statistical data analysis.
-* Supervised and unsupervised learning.
+* Python, Pytorch.
+* ImageNet, WordNet.
+* Object classification.
 * Duration: 1 semester (ongoing).
 
 This project was done in the course CS-401 Applied Data Analysis at EPFL.

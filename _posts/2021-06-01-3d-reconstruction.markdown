@@ -2,6 +2,7 @@
 title: "3D reconstruction course project"
 layout: post
 date: 2021-06-01 22:10
+year: 2021
 tag: reconstruction
 image: /assets/images/liu.png
 small_image: /assets/images/liu2.png
