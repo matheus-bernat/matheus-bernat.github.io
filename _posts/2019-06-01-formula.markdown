@@ -22,7 +22,7 @@ externalLink: false
 * Team management.
 * Duration: 2 semesters.
 
-This project consisted of kick-starting the development of autonomous features for the electric car build by LiU Formula Student. The partial goal consisted on taking an RC-car autonomously around a previously unknown race-track. Despite not achieving the full partial goal, we laid ground for the individual parts of perception, mapping, planning and control. 
+This project consisted of kick-starting the development of autonomous features for the electric car build by LiU Formula Student. We are a team of 8 students, with the partial goal consisting of taking an RC-car autonomously around a previously unknown race-track. Despite not achieving the full partial goal, we laid ground for the individual parts of perception, mapping, planning and control. 
 
 My role in the team was development of planning and control algorithms. I implemented a RRT planner with pure pursuit as its control algorithm. This was done inside the F1-tenth simulation enviroment.
 
