@@ -4,6 +4,7 @@ layout: post
 date: 2021-06-01 22:10
 tag: reconstruction
 image: /assets/images/liu.png
+small_image: /assets/images/liu2.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
