@@ -3,7 +3,7 @@ title: "Attention vs convolution: a survey on OOD object detection"
 layout: post
 date: 2021-12-01 22:10
 year: 2021
-tag: ada
+tag: visual-intelligence
 image: /assets/images/epfl.png
 small_image: /assets/images/epfl.png
 headerImage: true
@@ -21,8 +21,8 @@ externalLink: false
 * Object classification.
 * Duration: 1 semester (ongoing).
 
-This project was done in the course CS-401 Applied Data Analysis at EPFL.
+This project was done in the course CS-503 [Visual Intelligence: Machines and Minds](https://edu.epfl.ch/coursebook/fr/visual-intelligence-machines-and-minds-CS-503) at EPFL.
 
-Starting from the [Quotebank dataset](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) including 178 million quotations from the English-speaking world, the group's work is to study who has a voice in the media: who they are (profession, age, ethinicity), what they to say, and how they need to say it (sentiment analysis).
+We research what the role of the architectures of attention and convolution play in the detection of out-of-distribution (OOD) data. We study models that are purely based on convolution (multi-layer perceptrons), purely based on attention (vision-transformers), and other models that mix both.
 
-This is an ongoing project due the 17th of December, stay tuned for the results!
+This is an ongoing project due the 21th of December, stay tuned for the results!

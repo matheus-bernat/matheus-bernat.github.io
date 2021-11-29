@@ -21,7 +21,7 @@ externalLink: false
 * Supervised and unsupervised learning.
 * Duration: 1 semester (ongoing).
 
-This project was done in the course CS-401 Applied Data Analysis at EPFL.
+This project was done in the course [CS-401 Applied Data Analysis](https://edu.epfl.ch/coursebook/en/applied-data-analysis-CS-401) at EPFL.
 
 Starting from the [Quotebank dataset](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) including 178 million quotations from the English-speaking world, the group's work is to study who has a voice in the media: who they are (profession, age, ethinicity), what they to say, and how they need to say it (sentiment analysis).
 
