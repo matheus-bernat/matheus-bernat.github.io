@@ -1,0 +1,27 @@
+---
+title: "Attention vs convolution: a survey on OOD object detection"
+layout: post
+year: 2021-12-01 22:10
+tag: ada
+image: /assets/images/epfl.png
+small_image: /assets/images/epfl.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: ""
+category: project
+author: matheus
+externalLink: false
+---
+
+### About this project
+* Python, Pandas, Scikit-learn.
+* Statistical data analysis.
+* Supervised and unsupervised learning.
+* Duration: 1 semester (ongoing).
+
+This project was done in the course CS-401 Applied Data Analysis at EPFL.
+
+Starting from the [Quotebank dataset](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) including 178 million quotations from the English-speaking world, the group's work is to study who has a voice in the media: who they are (profession, age, ethinicity), what they to say, and how they need to say it (sentiment analysis).
+
+This is an ongoing project due the 17th of December, stay tuned for the results!
