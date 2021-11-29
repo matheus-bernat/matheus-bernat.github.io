@@ -23,6 +23,6 @@ externalLink: false
 
 This project was done in the course CS-503 [Visual Intelligence: Machines and Minds](https://edu.epfl.ch/coursebook/fr/visual-intelligence-machines-and-minds-CS-503) at EPFL.
 
-We research what the role of the architectures of attention and convolution play in the detection of out-of-distribution (OOD) data. We study models that are purely based on convolution (multi-layer perceptrons), purely based on attention (vision-transformers), and other models that mix both.
+We research the role of the architectures of attention and convolution in the detection of out-of-distribution (OOD) data. We study models that are purely based on convolution (multi-layer perceptrons), purely based on attention (vision-transformers), and other models that mix both.
 
 This is an ongoing project due the 21th of December, stay tuned for the results!

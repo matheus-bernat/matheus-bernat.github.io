@@ -41,7 +41,6 @@ This website aims to <b>display projects</b> I have done during my studies, both
 <h2>Previous employers</h2>
 
 <ul class="skill-list">
-	<li></li>
 	<li>Veoneer</li>
 	<li>UMS Skeldar</li>
 	<li>Linköping university</li>
