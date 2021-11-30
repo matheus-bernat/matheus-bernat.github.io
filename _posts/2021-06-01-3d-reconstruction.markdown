@@ -18,7 +18,7 @@ externalLink: false
 ### About this project
 * Python.
 * Pytorch for optimization of positions of cameras and positions of triangulated 3D points.
-* 3D reconstruction, structure from motion, epipolar geometry.
+* 3D reconstruction, structure from motion, multi-view geometry, bundle adjustment.
 * Duration: 6 weeks.
 
 This project was done in the course TSBB15 Computer Vision at Linköping university.
