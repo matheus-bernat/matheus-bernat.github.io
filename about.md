@@ -6,22 +6,13 @@ layout: page
 
 <h2>About me</h2>
 
-<p>
-Hello! My name is Matheus Bernat and I am a 23 year old master student in <b>Computer Science and Engineering</b> at Linköping university, in Sweden. I'm currently on my last year of master studies, doing an exchange year at EPFL, the Swiss Federal Institute of Technology in Lausanne.
-</p>
+Hello! My name is Matheus Bernat and I am a 23 year old master student in **Computer Science and Engineering** at Linköping university, in Sweden. I'm currently on my last year of masters, doing an exchange year at EPFL, the Swiss Federal Institute of Technology in Lausanne.
 
-<p>
-At the moment I am <b> looking for a master project opportunity during the Fall of 2022 </b>, at the industry or in academia. 
-</p>
+At the moment I am **looking for a master project opportunity during the Fall of 2022**, at the industry or in academia. 
 
-<p>
-My main research interests are in <b> computer vision, ML and signal processing</b>. Otherwise I spend a lot of time watching <b>football, tennis and F1</b>!
-</p>
+My main research interests are in **computer vision, ML and signal processing**. Otherwise I have a great interest for **football, tennis and F1**!
 
-<p>
-This website aims to <b>display projects</b> I have done during my studies, both as course projects and hobby projects.
-</p>
-
+This website aims to **display projects** I have done during my studies.
 
 <h2>Skills</h2>
 
@@ -39,6 +30,10 @@ This website aims to <b>display projects</b> I have done during my studies, both
 </ul>
 
 <h2>Previous employers</h2>
+
+- Veoneer
+- UMS Skeldar
+- Linköping university
 
 <ul class="skill-list">
 	<li>Veoneer</li>
