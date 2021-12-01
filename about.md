@@ -16,30 +16,18 @@ This website aims to **display projects** I have done during my studies.
 
 <h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>Python</li>
-	<li>Statistics</li>
-	<li>Machine learning</li>
-	<li>3D reconstruction, object tracking & image classification</li>
-	<li>C++</li>
-	<li>Matlab</li>
-	<li>Git</li>
-	<li>Robotics programming with ROS</li>
-	<li>Agile development</li>
-	<li>Pandas</li>
-</ul>
+- Python, C++, MATLAB, Git
+- Pytorch, Pandas, OpenCV, Numpy
+- Statistics and machine learning
+- 3D reconstruction, object tracking & image classification
+- Robotics programming with ROS
+- Agile development
 
 <h2>Previous employers</h2>
 
-- Veoneer
-- UMS Skeldar
-- Linköping university
-
-<ul class="skill-list">
-	<li>Veoneer</li>
-	<li>UMS Skeldar</li>
-	<li>Linköping university</li>
-</ul>
+- (Veoneer)[https://www.veoneer.com/en/home]
+- (UMS Skeldar)[https://umsskeldar.aero/]
+- (Linköping university)[https://liu.se/]
 
 <!-- <h2>My resume</h2>
 
