@@ -26,18 +26,16 @@ This project was done in the course TSBB15 Computer Vision at Linköping univers
 The goal was to construct a system able to perform 3D reconstruction of a static scene given images of this scene takenfrom different angles. This task is thoroughly studied in the field of computer vision and known as Structure from Motion (SfM).
 
 <img src="/assets/images/dino_mesh.gif" alt="should be a gif"/>
+<figcaption class="caption">Mesh of triangulated 3D points.</figcaption>
+
+<img class="image" src="/assets/images/dino2.png" alt="Alt Text">
+<figcaption class="caption">Keypoints on dinosaur that will be triangulated.</figcaption>
 
 <img class="image" src="/assets/images/pytorch-3d.PNG" alt="Alt Text">
 <figcaption class="caption">Scheme of Pytorch used for optimization of camera-positions and triangulated points.</figcaption>
 
 <img class="image" src="/assets/images/pipe.PNG" alt="Alt Text">
 <figcaption class="caption">Pipeline of multiview 3D reconstruction.</figcaption>
-
-<img class="image" src="/assets/images/dino2.png" alt="Alt Text">
-<figcaption class="caption">Keypoints on dinosaur that will be triangulated.</figcaption>
-
-<img class="image" src="/assets/images/3d_point_cloud3.png" alt="Alt Text">
-<figcaption class="caption">Triangulated 3D points.</figcaption>
 
 ### Links
 * Here's the link to the [Github repo](https://github.com/matheus-bernat/3d-reconstruction).
