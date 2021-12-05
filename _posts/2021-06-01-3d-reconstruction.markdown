@@ -27,6 +27,12 @@ The goal was to construct a system able to perform 3D reconstruction of a static
 
 <img src="/assets/images/dino_mesh.gif" alt="should be a gif"/>
 
+<img class="image" src="/assets/images/pytorch-3d.PNG" alt="Alt Text">
+<figcaption class="caption">Scheme of Pytorch used for optimization of camera-positions and triangulated points.</figcaption>
+
+<img class="image" src="/assets/images/pipe.PNG" alt="Alt Text">
+<figcaption class="caption">Pipeline of multiview 3D reconstruction.</figcaption>
+
 <img class="image" src="/assets/images/dino2.png" alt="Alt Text">
 <figcaption class="caption">Keypoints on dinosaur that will be triangulated.</figcaption>
 
