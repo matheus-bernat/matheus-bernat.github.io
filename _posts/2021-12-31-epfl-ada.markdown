@@ -1,9 +1,9 @@
 ---
-title: "Who has a voice in the media? - A study of Quotebank"
+title: "Who has a voice in the media? An EPFL project to discover how to be quoted in the media."
 layout: post
 date: 2021-12-01 22:10
 year: 2021
-tag: ada
+tag: DataViz, Python, Unsupervised learning
 image: /assets/images/epfl.png
 small_image: /assets/images/epfl.png
 headerImage: true
@@ -16,13 +16,27 @@ externalLink: false
 ---
 
 ### About this project
-* Python, Pandas, Scikit-learn.
-* Statistical data analysis.
-* Supervised and unsupervised learning.
-* Duration: 1 semester (ongoing).
+* Python, Javascript, HTML.
+* Statistical data analysis, supervised and unsupervised learning.
+* Packages/Libraries: Pandas, skLearn, plotly, TensorFlow, ReactJS, Flask.
 
-This project was done in the course [CS-401 Applied Data Analysis](https://edu.epfl.ch/coursebook/en/applied-data-analysis-CS-401) at EPFL.
+This project was done in the course [CS-401 Applied Data Analysis](https://edu.epfl.ch/coursebook/en/applied-data-analysis-CS-401) course at EPFL by [Pr. West](https://scholar.google.com/citations?user=ZiFn598AAAAJ).
 
-Starting from the [Quotebank dataset](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) including 178 million quotations from the English-speaking world, the group's work is to study who has a voice in the media: who they are (profession, age, ethinicity), what they to say, and how they need to say it (sentiment analysis).
+Made in collaboration with [Eliott Zemour](https://www.linkedin.com/in/eliott-zemour/), [Thomas Benchetrit](https://www.linkedin.com/in/thomas-benchetrit/), and [Benjamin Hansson](https://www.linkedin.com/in/benjamin-hansson-39b391140/).
 
-This is an ongoing project due the 17th of December, stay tuned for the results!
+Isn't it a pleasure to be listened to? The ability to make your voice heard is a privilege that few have. Sometimes you can have the feeling that only the loudest are listened to. Using the Quotebank dataset from 2015 to 2020 and information about the speakers exctracted from Wikidata, we were able to dissect : 
+- **WHO** you need to be to be quoted (age, gender, occupation)
+- **WHAT** you need to say (which subject to talk about)
+- **HOW** you need to talk about it (which emotion to use)
+
+Once a primary analysis was done on the speakers on themselves, a **K-means** clustering algorithm was run on the data to cluster the speakers into sub-groups to be further and deeper analyzed. The lexical database **Wordnet** was used to reduce the number of occupations to facilitate clustering. Then, in order to extract the topic and the emotion for each quote, we used a zero-shot classificatino approach based on the **DistilBERT** base model uncased. This model is fine-tuned on Multi-Genre Natural Language Inference (MNLI) dataset for the zero-shot classification task. In order to present our results, a **[website](https://quotebankers.github.io/)** was developped using Jekyll. All visualisations were done through [plotly](https://plotly.com/). To make the content more interactive and more appealing to users, a **[webapp](https://quotebankers.netlify.app/)** was also developped.
+
+Developped using ReactJS and Material-UI, this app asks you who you are, what you want to talk about and with which emotion in order to predict a *quotation score* which is computed using a Deep Learning model made with TensorFlow and trained on the newly-labelled QuoteBank dataset. An API was developped with the Flask framework in order to host the predictive model and answer the requests made in the webapp.
+
+---
+
+### Links
+* Link to the [website](https://quotebankers.github.io/). 
+* Link to the [webapp](https://quotebankers.netlify.app/)
+* Link to the [repositories](https://linktr.ee/QuoteBankers)
+* You can find the QuoteBank dataset [here](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf )
