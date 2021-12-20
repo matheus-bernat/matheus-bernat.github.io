@@ -1,7 +1,7 @@
 ---
-title: "Who has a voice in the media ? An EPFL project to discover how to be quoted in the media."
+title: "Who has a voice in the media? An EPFL project to discover how to be quoted in the media."
 layout: post
-date: 2021-12-20 22:10
+date: 2021-12-01 22:10
 year: 2021
 tag: DataViz, Python, Unsupervised learning
 image: /assets/images/epfl.png
@@ -16,10 +16,9 @@ externalLink: false
 ---
 
 ### About this project
-* Python, Pandas, Scikit-learn.
-* Statistical data analysis.
-* Supervised and unsupervised learning.
-* Duration: 1 semester (ongoing).
+* Python, Javascript, HTML.
+* Statistical data analysis, supervised and unsupervised learning.
+* Packages/Libraries: Pandas, skLearn, plotly, TensorFlow, ReactJS, Flask.
 
 This project was done in the course [CS-401 Applied Data Analysis](https://edu.epfl.ch/coursebook/en/applied-data-analysis-CS-401) course at EPFL by [Pr. West](https://scholar.google.com/citations?user=ZiFn598AAAAJ).
 
@@ -36,11 +35,6 @@ Once a primary analysis was done on the speakers on themselves, a **K-means** cl
 Developped using ReactJS and Material-UI, this app asks you who you are, what you want to talk about and with which emotion in order to predict a *quotation score* which is computed using a Deep Learning model made with TensorFlow and trained on the newly-labelled QuoteBank dataset. An API was developped with the Flask framework in order to host the predictive model and answer the requests made in the webapp.
 
 ---
-
-### About this project
-* Python, Javascript, HTML.
-* Packages/Libraries: Pandas, skLearn, plotly, TensorFlow, ReactJS, Flask.
-* Interactive webapp, identity and topic oriented analysis of the QuoteBank dataset
 
 ### Links
 * Link to the [website](https://quotebankers.github.io/). 
