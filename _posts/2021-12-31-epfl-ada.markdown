@@ -36,7 +36,7 @@ Developped using ReactJS and Material-UI, this app asks you who you are, what yo
 ---
 
 ### Links
-* Link to the [website](https://quotebankers.github.io/). 
-* Link to the [webapp](https://quotebankers.netlify.app/)
-* Link to the [repositories](https://linktr.ee/QuoteBankers)
-* You can find the QuoteBank dataset [here](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf )
+* [Website](https://quotebankers.github.io/). 
+* [Webapp](https://quotebankers.netlify.app/).
+* [Repositories](https://linktr.ee/QuoteBankers).
+* You can find the QuoteBank dataset [here](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf).
