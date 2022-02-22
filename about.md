@@ -25,9 +25,9 @@ This website aims to **display projects** I have done during my studies.
 
 <h2>Previous employers</h2>
 
-- (Veoneer)[https://www.veoneer.com/en/home]
-- (UMS Skeldar)[https://umsskeldar.aero/]
-- (Linköping university)[https://liu.se/]
+- [Veoneer](https://www.veoneer.com/en/home)
+- [UMS Skeldar](https://umsskeldar.aero/)
+- [Linköping university](https://liu.se/)
 
 <!-- <h2>My resume</h2>
 
