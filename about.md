@@ -12,6 +12,9 @@ At the moment I am **looking for a full-time position starting mid-February 2023
 
 This website aims to **display projects** I have done during my studies.
 
+<h2>Documents</h2>
+Here is my [latest CV](/assets/CV_MatheusBernat.pdf), and my [grades](/assets/grades.pdf).
+
 <h2>Skills</h2>
 
 - Python, C++, MATLAB, Git
