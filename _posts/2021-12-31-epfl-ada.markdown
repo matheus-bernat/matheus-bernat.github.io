@@ -1,5 +1,5 @@
 ---
-title: "Who has a voice in the media? An EPFL project to discover how to be quoted in the media."
+title: "Who has a voice in the media?"
 layout: post
 date: 2021-12-01 22:10
 year: 2021

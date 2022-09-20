@@ -25,4 +25,10 @@ This project was done in the course CS-503 [Visual Intelligence: Machines and Mi
 
 We research the role of the architectures of attention and convolution in the detection of out-of-distribution (OOD) data. We study models that are purely based on convolution (multi-layer perceptrons), purely based on attention (vision-transformers), and other models that mix both.
 
-This is an ongoing project due the 21th of December, stay tuned for the results!
+See our final presentation in the video below:
+
+[![IMAGE ALT TEXT HERE](/assets/images/ood-detection.PNG)](https://www.youtube.com/watch?v=mkzivtvTsdE)
+
+### Links
+* [Project report](/assets/reports/From_Convolution_to_Attention__a_Survey_on_OOD_Detection.pdf)
+* [GitHub repo](https://github.com/cs-503-project-group/vit-vs-cnn)
