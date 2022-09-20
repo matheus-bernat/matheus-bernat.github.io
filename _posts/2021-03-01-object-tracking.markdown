@@ -32,8 +32,11 @@ The pipeline consisted of:
 <img class="image" src="/assets/images/median_gray.png" alt="Alt Text">
 <figcaption class="caption">Figure 1. Example of median filtering using gray-scale images.</figcaption>
 
-<img class="image" src="/assets/images/gt_vs_our_frame70.png" alt="Sequence MOT17-09, ground truth (left) our de-tections (right)">
-<figcaption class="caption">Figure 2. Sequence MOT17-09, ground truth (left) our detections (right).</figcaption>
+<img src="/assets/images/02.gif" alt="should be a gif"/>
+<figcaption class="caption">Object tracking.</figcaption>
+
+<img src="/assets/images/09.gif" alt="should be a gif"/>
+<figcaption class="caption">Object tracking.</figcaption>
 
 ### Links
 * Here's the link to the [project report](/assets/reports/TSBB15_proj1.pdf).
