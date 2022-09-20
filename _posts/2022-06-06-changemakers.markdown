@@ -1,5 +1,5 @@
 ---
-title: "Changemakers -- WeFind"
+title: "Changemakers - WeFind"
 layout: post
 date: 2022-09-16 10:00
 year: 2022
