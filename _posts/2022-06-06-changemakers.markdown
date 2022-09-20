@@ -26,7 +26,7 @@ During the Spring semester 2022, I was selected together with two good friends t
 <img class="image" src="/assets/images/changemakers-post.PNG" alt="Alt Text">
 <figcaption class="caption">Prize.</figcaption>
 
-<img class="image" src="/assets/images/class_dist_naive.PNG" alt="Alt Text">
+<img class="image" src="/assets/images/changemakers-matheus.jpeg" alt="Alt Text">
 <figcaption class="caption">My first pitch! In front of a 100 people.</figcaption>
 
 ### Links

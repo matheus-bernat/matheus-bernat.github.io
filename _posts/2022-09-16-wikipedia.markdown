@@ -1,5 +1,5 @@
 ---
-title: "Topical classification of Wikipedia images -- Master Thesis"
+title: "Topical classification of Wikipedia images - Master Thesis"
 layout: post
 date: 2022-09-16 10:00
 year: 2022
@@ -37,7 +37,7 @@ As for the *master thesis* that I am currently undertaking, the focus lies on:
 <img class="image" src="/assets/images/neuralnet_good.png" alt="Alt Text">
 <figcaption class="caption">Structure of the designed network.</figcaption>
 
-<img class="image" src="/assets/images/class_dist_naive.PNG" alt="Alt Text">
+<img class="image" src="/assets/images/class_dist_naive.png" alt="Alt Text">
 <figcaption class="caption">Class distribution.</figcaption>
 
 ### Links
